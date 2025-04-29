@@ -1,0 +1,9 @@
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-ef7c610a793a14f9.rmeta: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-ef7c610a793a14f9.rlib: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-ef7c610a793a14f9.d: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs:

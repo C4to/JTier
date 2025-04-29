@@ -1,0 +1,10 @@
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libgloo_utils-402ab193483a5f68.rmeta: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libgloo_utils-402ab193483a5f68.rlib: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/gloo_utils-402ab193483a5f68.d: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs
+
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/lib.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/errors.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/iter.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.2.0/src/format/json.rs:

@@ -1,0 +1,10 @@
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libleptos_dom-7e5d1ed9ca8abf10.rmeta: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/helpers.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/macro_helpers/mod.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/logging.rs
+
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/libleptos_dom-7e5d1ed9ca8abf10.rlib: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/helpers.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/macro_helpers/mod.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/logging.rs
+
+/Users/julienastier/Desktop/programming/leptos-tutorial/target/wasm32-unknown-unknown/release/deps/leptos_dom-7e5d1ed9ca8abf10.d: /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/lib.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/helpers.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/macro_helpers/mod.rs /Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/logging.rs
+
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/lib.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/helpers.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/macro_helpers/mod.rs:
+/Users/julienastier/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_dom-0.7.8/src/logging.rs:
